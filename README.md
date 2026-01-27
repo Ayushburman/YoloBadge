@@ -7,3 +7,6 @@
 | ⭐ Starstruck           | Get stars on your repository       | ⭐⭐      |Pending |
 | 💥 YOLO                | Merge PR without review             | ⭐⭐⭐⭐ |Pending |
 | ❤️ Public Sponsor      | Sponsor someone on GitHub           | ⭐         |Pending |
+
+---------------------------------------------------------------------------------------------
+
