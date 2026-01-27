@@ -1,9 +1,9 @@
-| Badge Name             | How to Get It                       | Easy? |
-| ---------------------- | ----------------------------------- | ----- |
-| 🐬 Quickdraw           | Close an issue/PR within 5 minutes  | ⭐⭐⭐⭐  |
-| 🦈 Pull Shark          | Get 2+ pull requests merged         | ⭐⭐⭐   |
-| 👥 Pair Extraordinaire | Co-author a merged pull request     | ⭐⭐⭐   |
-| 🧠 Galaxy Brain        | Get accepted answers in Discussions | ⭐⭐    |
-| ⭐ Starstruck           | Get stars on your repository        | ⭐⭐    |
-| 💥 YOLO                | Merge PR without review             | ⭐⭐⭐⭐  |
-| ❤️ Public Sponsor      | Sponsor someone on GitHub           | ⭐     |
+| Badge Name             | How to Get It                       | Easy? | Status |
+| ---------------------- | ----------------------------------- | ----- | -------------------- |
+| 🐬 Quickdraw           | Close an issue/PR within 5 minutes  | ⭐⭐⭐⭐  |Done |
+| 🦈 Pull Shark          | Get 2+ pull requests merged         | ⭐⭐⭐    |Done |
+| 👥 Pair Extraordinaire | Co-author a merged pull request     | ⭐⭐⭐    | Pending |
+| 🧠 Galaxy Brain        | Get accepted answers in Discussions | ⭐⭐       |Pending |
+| ⭐ Starstruck           | Get stars on your repository       | ⭐⭐      |Pending |
+| 💥 YOLO                | Merge PR without review             | ⭐⭐⭐⭐ |Pending |
+| ❤️ Public Sponsor      | Sponsor someone on GitHub           | ⭐         |Pending |
