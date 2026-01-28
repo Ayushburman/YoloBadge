@@ -10,24 +10,24 @@
 
 ---------------------------------------------------------------------------------------------
 
-🐬 1. Quickdraw — Done ✅
-📌 Meaning
+## 🐬 Quickdraw — Done ✅
 
-You get this when you close an Issue or PR within 5 minutes of it being opened.
+### 📌 Meaning
+You earn this badge when you close an Issue or Pull Request within **5 minutes** of it being opened.
 
-🪜 Steps
+---
 
-Someone opens an Issue/PR in your repo.
+### 🪜 Steps
+1. Someone opens an Issue or Pull Request in your repository.
+2. Open it as soon as possible.
+3. Click **Close issue** or **Close pull request**.
+4. Complete the action within **5 minutes** ⏱️.
 
-You open it quickly.
+---
 
-Click Close issue / Close pull request.
+### 💡 Tip
+This badge is easiest to earn on your **own repository**, where you have full permissions.
 
-Do it within 5 minutes ⏱️
-
-💡 Tip
-
-Works best on your own repo.
 
 -----------------------------------------------------
 
