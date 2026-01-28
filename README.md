@@ -96,3 +96,63 @@ Submit PR → Get merged.
 
 🏆 Badge unlocks after merge.
 -------------------------------------------
+🧠 4. Galaxy Brain — Pending ⏳
+📌 Meaning
+
+Your answers in GitHub Discussions must be marked as Accepted.
+
+🪜 Steps
+Step 1: Find Repo with Discussions
+
+Search:
+
+is:open discussions
+
+
+Or use big repos.
+
+Step 2: Answer a Question
+
+Give clear, helpful reply.
+
+Step 3: Author Accepts It
+
+If they click ✅ → You win.
+
+Repeat multiple times.
+
+💡 Tip
+
+Answer beginner questions — easier to get accepted.
+---------------------------------------------------
+⭐ 5. Starstruck — Pending ⏳
+📌 Meaning
+
+Your repository must receive stars ⭐ from others.
+
+(Not you starring yourself ❌)
+
+🪜 Steps
+
+Make a good repo:
+
+Project
+
+Tool
+
+Guide
+
+Template
+
+Add README.
+
+Share link with friends.
+
+Ask politely:
+
+“Can you star my repo if useful?”
+
+Once people star → badge appears.
+
+💡 Usually need many stars (not just 1).
+-----------------------------------------------
