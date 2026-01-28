@@ -32,7 +32,8 @@ This badge is easiest to earn on your **own repository**, where you have full pe
 
 -----------------------------------------------------
 
-## 🦈 Pull Shark — Done ✅
+## <img width="172" height="169" alt="image" src="https://github.com/user-attachments/assets/830c4115-6316-43f6-852c-d901334d843d" />
+ Pull Shark — Done ✅
 
 ### 📌 Meaning
 You earn this badge when **two or more** of your Pull Requests are successfully merged.
