@@ -10,19 +10,20 @@
 
 ---------------------------------------------------------------------------------------------
 
-## 🐬 Quickdraw — Done ✅
+## <img width="264" height="257" alt="image" src="https://github.com/user-attachments/assets/0df7ca0e-4401-447d-8992-a27f38dbaf6f" />
+Quickdraw — Done ✅
 
 ### 📌 Meaning
 You earn this badge when you close an Issue or Pull Request within **5 minutes** of it being opened.
 
 ---
-
-### 🪜 Steps
-1. Someone opens an Issue or Pull Request in your repository.
-2. Open it as soon as possible.
-3. Click **Close issue** or **Close pull request**.
-4. Complete the action within **5 minutes** ⏱️.
-
+```
+#Steps
+> 1. Someone opens an Issue or Pull Request in your repository.
+> 2. Open it as soon as possible.
+> 3. Click **Close issue** or **Close pull request**.
+> 4. Complete the action within **5 minutes** ⏱️.
+```
 ---
 
 ### 💡 Tip
