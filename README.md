@@ -10,3 +10,27 @@
 
 ---------------------------------------------------------------------------------------------
 
+🐬 1. Quickdraw — Done ✅
+📌 Meaning
+
+You get this when you close an Issue or PR within 5 minutes of it being opened.
+
+🪜 Steps
+
+Someone opens an Issue/PR in your repo.
+
+You open it quickly.
+
+Click Close issue / Close pull request.
+
+Do it within 5 minutes ⏱️
+
+💡 Tip
+
+Works best on your own repo.
+
+-----------------------------------------------------
+
+Ask a friend to open a test issue.
+
+✅ You already have it → Good job!
