@@ -31,30 +31,31 @@ This badge is easiest to earn on your **own repository**, where you have full pe
 
 -----------------------------------------------------
 
-🦈 2. Pull Shark — Done ✅
-📌 Meaning
+## 🦈 Pull Shark — Done ✅
 
-You need 2 or more PRs merged.
+### 📌 Meaning
+You earn this badge when **two or more** of your Pull Requests are successfully merged.
 
-🪜 Steps
+---
 
-Fork a repo.
+### 🪜 Steps
+1. Fork a repository.
+2. Make meaningful changes.
+3. Create a Pull Request.
+4. Wait for the repository owner to merge it.
+5. Repeat the process until you have **2+ merged PRs**.
 
-Make changes.
+---
 
-Create a Pull Request.
+### 💡 Tip
+- Pull Requests in your **own repositories** also count.
+- Simple fixes like README updates, typo corrections, and documentation improvements work well.
 
-Repo owner merges it.
+---
 
-Repeat → 2+ times.
+### 🎉 Status
+✅ You have already achieved this badge.
 
-💡 Tip
-
-Your own repos also count.
-
-Fix README, typos, docs, etc.
-
-✅ You already achieved it 🎉
 ------------------------------------------
 👥 3. Pair Extraordinaire — Pending ⏳
 📌 Meaning
