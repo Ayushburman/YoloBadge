@@ -57,74 +57,61 @@ You earn this badge when **two or more** of your Pull Requests are successfully 
 ✅ You have already achieved this badge.
 
 ------------------------------------------
-👥 3. Pair Extraordinaire — Pending ⏳
-📌 Meaning
+## 👥 Pair Extraordinaire — Pending ⏳
 
-You must co-author a PR with someone.
+### 📌 Meaning
+You earn this badge by creating a Pull Request that is **co-authored with another contributor**.  
+In simple terms: **2 people collaborate on 1 PR**.
 
-That means: 2 people = 1 PR.
+---
 
-🪜 Steps
-Step 1: Work With Partner
+### 🪜 Steps
 
-Ask a friend:
+#### Step 1: Work With a Partner
+Ask a friend or contributor:
+> “Let’s work together on one PR for the GitHub Pair Extraordinaire badge.”
 
-“Let’s do one PR together for GitHub badge.”
+---
 
-Step 2: Edit File
+#### Step 2: Edit the File
+- One person edits the file.
+- Commit the changes.
 
-One person edits and commits.
+---
 
-Step 3: Add Co-Author Line
-
-In commit message, write:
-
-Co-authored-by: FriendName <friend@email.com>
-
-
-Example:
-
-Fix typo in README
-
-Co-authored-by: Rahul Kumar <rahul@gmail.com>
+#### Step 3: Add Co-Author Line
+In the commit message, add:
 
 
-⚠️ Email must match their GitHub email.
-
-Step 4: Create PR
-
-Submit PR → Get merged.
-
-🏆 Badge unlocks after merge.
 -------------------------------------------
-🧠 4. Galaxy Brain — Pending ⏳
-📌 Meaning
+## 🧠 Galaxy Brain — Pending ⏳
 
-Your answers in GitHub Discussions must be marked as Accepted.
+### 📌 Meaning
+You earn this badge when your answers in **GitHub Discussions** are marked as **Accepted** by the discussion author.
 
-🪜 Steps
-Step 1: Find Repo with Discussions
+---
 
-Search:
-
+### 🪜 S
 is:open discussions
 
+Or participate in large, active repositories.
 
-Or use big repos.
+---
 
-Step 2: Answer a Question
+#### Step 2: Answer a Question
+- Provide a clear, accurate, and helpful response.
+- Focus on solving the user’s problem.
 
-Give clear, helpful reply.
+---
 
-Step 3: Author Accepts It
+#### Step 3: Get Your Answer Accepted
+- If the author marks your reply with ✅ (Accepted), it counts.
+- Repeat this process multiple times to qualify.
 
-If they click ✅ → You win.
+---
 
-Repeat multiple times.
-
-💡 Tip
-
-Answer beginner questions — easier to get accepted.
+### 💡 Tip
+Answer beginner-level questions whenever possible — they are easier to solve and more likely to be accepted.
 ---------------------------------------------------
 ⭐ 5. Starstruck — Pending ⏳
 📌 Meaning
