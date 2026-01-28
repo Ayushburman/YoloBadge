@@ -31,6 +31,27 @@ Works best on your own repo.
 
 -----------------------------------------------------
 
-Ask a friend to open a test issue.
+🦈 2. Pull Shark — Done ✅
+📌 Meaning
 
-✅ You already have it → Good job!
+You need 2 or more PRs merged.
+
+🪜 Steps
+
+Fork a repo.
+
+Make changes.
+
+Create a Pull Request.
+
+Repo owner merges it.
+
+Repeat → 2+ times.
+
+💡 Tip
+
+Your own repos also count.
+
+Fix README, typos, docs, etc.
+
+✅ You already achieved it 🎉
