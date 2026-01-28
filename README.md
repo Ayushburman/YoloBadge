@@ -156,3 +156,43 @@ Once people star → badge appears.
 
 💡 Usually need many stars (not just 1).
 -----------------------------------------------
+💥 6. YOLO — Pending ⏳
+📌 Meaning
+
+Merge a Pull Request without review.
+
+No approval. Just merge directly.
+
+🪜 Steps (Easiest Way)
+Step 1: Use Your Repo
+
+Create your own repo.
+
+Step 2: Create PR
+
+Edit file
+
+Push branch
+
+Open PR
+
+Step 3: Merge Immediately
+
+Click:
+
+Merge Pull Request
+
+
+WITHOUT:
+
+Review
+
+Approval
+
+Comment
+
+⚠️ No “Approve” first.
+
+That’s YOLO 😎
+------------------------------------
+
