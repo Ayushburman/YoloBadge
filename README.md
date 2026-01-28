@@ -55,3 +55,44 @@ Your own repos also count.
 Fix README, typos, docs, etc.
 
 ✅ You already achieved it 🎉
+------------------------------------------
+👥 3. Pair Extraordinaire — Pending ⏳
+📌 Meaning
+
+You must co-author a PR with someone.
+
+That means: 2 people = 1 PR.
+
+🪜 Steps
+Step 1: Work With Partner
+
+Ask a friend:
+
+“Let’s do one PR together for GitHub badge.”
+
+Step 2: Edit File
+
+One person edits and commits.
+
+Step 3: Add Co-Author Line
+
+In commit message, write:
+
+Co-authored-by: FriendName <friend@email.com>
+
+
+Example:
+
+Fix typo in README
+
+Co-authored-by: Rahul Kumar <rahul@gmail.com>
+
+
+⚠️ Email must match their GitHub email.
+
+Step 4: Create PR
+
+Submit PR → Get merged.
+
+🏆 Badge unlocks after merge.
+-------------------------------------------
