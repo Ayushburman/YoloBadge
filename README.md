@@ -196,3 +196,24 @@ Comment
 That’s YOLO 😎
 ------------------------------------
 
+❤️ 7. Public Sponsor — Pending ⏳
+📌 Meaning
+
+You must send money to support a developer.
+
+This is a paid badge 💰
+
+🪜 Steps
+
+Go to developer profile.
+
+Click Sponsor ❤️
+
+Choose plan.
+
+Pay.
+
+After payment → Badge.
+
+⚠️ Optional. Don’t do if you don’t want.
+--------------------------------------------------------
