@@ -233,3 +233,13 @@ This is a **paid badge 💰**.
 This badge is optional. Only sponsor if you genuinely want to support the developer.
 
 --------------------------------------------------------
+| Badge               | Status  | Difficulty |
+| ------------------- | ------- | ---------- |
+| Quickdraw           | ✅ Done  | Easy       |
+| Pull Shark          | ✅ Done  | Easy       |
+| Pair Extraordinaire | ⏳ Next  | Medium     |
+| Galaxy Brain        | ⏳ Later | Medium     |
+| Starstruck          | ⏳ Hard  | Hard       |
+| YOLO                | ⏳ Easy  | Easy       |
+| Sponsor             | ⏳ Paid  | Optional   |
+
