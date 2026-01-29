@@ -100,7 +100,8 @@ You earn this badge when your answers in **GitHub Discussions** are marked as **
 
 ---
 
-### 🪜 S
+### Steps
+```
 is:open discussions
 
 Or participate in large, active repositories.
@@ -117,7 +118,7 @@ Or participate in large, active repositories.
 - If the author marks your reply with ✅ (Accepted), it counts.
 - Repeat this process multiple times to qualify.
 
----
+```
 
 ### 💡 Tip
 Answer beginner-level questions whenever possible — they are easier to solve and more likely to be accepted.
@@ -130,7 +131,7 @@ You earn this badge when your repository receives **stars ⭐ from other users**
 Self-starring your own repository does **not** count ❌.
 
 ---
-
+```
 ### 🪜 Steps
 
 #### Step 1: Create a Quality Repository
@@ -156,7 +157,7 @@ Add a clear and informative **README.md** file.
 - After reaching the required threshold, the badge appears automatically.
 
 ---
-
+```
 ### 💡 Tip
 Usually, more than **one star** is needed. Focus on creating valuable content to attract organic stars.
 
