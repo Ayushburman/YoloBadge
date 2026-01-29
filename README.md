@@ -71,9 +71,11 @@ In simple terms: **2 people collaborate on 1 PR**.
 
 ---
 
-### 🪜 Steps
+### Steps
 
-#### Step 1: Work With a Partner
+```
+
+Step 1: Work With a Partner
 Ask a friend or contributor:
 > “Let’s work together on one PR for the GitHub Pair Extraordinaire badge.”
 
@@ -88,7 +90,7 @@ Ask a friend or contributor:
 #### Step 3: Add Co-Author Line
 In the commit message, add:
 
-
+```
 -------------------------------------------
 ## <img width="155" height="127" alt="image" src="https://github.com/user-attachments/assets/5fb2d278-e713-4e07-ae52-f4bdac2dc1c5" />
 Galaxy Brain — Pending ⏳
