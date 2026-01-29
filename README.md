@@ -175,8 +175,8 @@ This means:
 - Direct merge only
 
 ---
-
-### 🪜 Steps (Correct Method)
+```
+### Steps (Correct Method)
 
 #### Step 1: Find Another Repository
 - Choose a repository that is **not your own**.
@@ -204,6 +204,7 @@ This means:
 ⚠️ Do NOT request a review.
 
 ---
+```
 
 ### 🧨 Result
 If your Pull Request is merged directly without review, the YOLO b
@@ -220,7 +221,7 @@ This is a **paid badge 💰**.
 ---
 
 ### 🪜 Steps
-
+```
 #### Step 1: Visit a Developer’s Profile
 - Open the profile of a developer you want to support.
 
@@ -240,7 +241,7 @@ This is a **paid badge 💰**.
 #### Step 4: Receive the Badge
 - After successful payment, the badge appears on your profile.
 
----
+```
 
 ### ⚠️ Note
 This badge is optional. Only sponsor if you genuinely want to support the developer.
@@ -255,4 +256,4 @@ This badge is optional. Only sponsor if you genuinely want to support the develo
 | Starstruck          | ⏳ Hard  | Hard       |
 | YOLO                | ⏳ Easy  | Easy       |
 | Sponsor             | ⏳ Paid  | Optional   |
-
+----------------------------------------------------
