@@ -1,5 +1,5 @@
 # Achievements
-
+----------------------------------------------------------------------------------------------
 | Badge Name             | How to Get It                       | Easy? | Status |
 | ---------------------- | ----------------------------------- | ----- | -------------------- |
 | > Quickdraw           | Close an issue/PR within 5 minutes  | ⭐⭐⭐⭐  |Done |
@@ -10,7 +10,7 @@
 | > YOLO                | Merge PR without review             | ⭐⭐⭐⭐ |Pending |
 | > Public Sponsor      | Sponsor someone on GitHub           | ⭐         |Pending |
 
----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 ## <img width="264" height="257" alt="image" src="https://github.com/user-attachments/assets/0df7ca0e-4401-447d-8992-a27f38dbaf6f" />
 Quickdraw — Done ✅
