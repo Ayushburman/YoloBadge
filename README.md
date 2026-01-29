@@ -1,3 +1,4 @@
+# Achievements
 | Badge Name             | How to Get It                       | Easy? | Status |
 | ---------------------- | ----------------------------------- | ----- | -------------------- |
 | 🐬 Quickdraw           | Close an issue/PR within 5 minutes  | ⭐⭐⭐⭐  |Done |
@@ -59,7 +60,8 @@ You earn this badge when **two or more** of your Pull Requests are successfully 
 ✅ You have already achieved this badge.
 
 ------------------------------------------
-## 👥 Pair Extraordinaire — Pending ⏳
+## <img width="219" height="183" alt="image" src="https://github.com/user-attachments/assets/5c48a45a-3a67-438a-aaa0-9d931b1cea36" />
+ Pair Extraordinaire — Pending ⏳
 
 ### 📌 Meaning
 You earn this badge by creating a Pull Request that is **co-authored with another contributor**.  
