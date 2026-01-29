@@ -118,7 +118,8 @@ Or participate in large, active repositories.
 ### 💡 Tip
 Answer beginner-level questions whenever possible — they are easier to solve and more likely to be accepted.
 ---------------------------------------------------
-## ⭐ Starstruck — Pending ⏳
+## <img width="172" height="180" alt="image" src="https://github.com/user-attachments/assets/e0af878f-a457-43d5-b568-d8f10bd080f3" />
+ — Pending ⏳
 
 ### 📌 Meaning
 You earn this badge when your repository receives **stars ⭐ from other users**.  
