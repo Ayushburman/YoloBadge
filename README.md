@@ -157,7 +157,8 @@ Add a clear and informative **README.md** file.
 Usually, more than **one star** is needed. Focus on creating valuable content to attract organic stars.
 
 -----------------------------------------------
-## 💥 YOLO — Pending ⏳
+## <img width="192" height="180" alt="image" src="https://github.com/user-attachments/assets/c178c678-934c-4fdc-ba65-78c20323ae4c" />
+ YOLO — Pending ⏳
 
 ### 📌 Meaning
 You earn this badge when your Pull Request is **merged without any review**.
