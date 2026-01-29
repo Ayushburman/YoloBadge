@@ -88,7 +88,8 @@ In the commit message, add:
 
 
 -------------------------------------------
-## 🧠 Galaxy Brain — Pending ⏳
+## <img width="155" height="127" alt="image" src="https://github.com/user-attachments/assets/5fb2d278-e713-4e07-ae52-f4bdac2dc1c5" />
+Galaxy Brain — Pending ⏳
 
 ### 📌 Meaning
 You earn this badge when your answers in **GitHub Discussions** are marked as **Accepted** by the discussion author.
