@@ -205,7 +205,8 @@ If your Pull Request is merged directly without review, the YOLO b
 
 ------------------------------------
 
-## ❤️ Public Sponsor — Pending ⏳
+## ![Uploading image.png…]()
+ — Pending ⏳
 
 ### 📌 Meaning
 You earn this badge by financially supporting a developer through GitHub Sponsors.  
