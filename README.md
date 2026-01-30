@@ -28,16 +28,16 @@ You earn this badge when you close an Issue or Pull Request within **5 minutes**
 ```
 ---
 
-### 💡 Tip
+###  Tip
 This badge is easiest to earn on your **own repository**, where you have full permissions.
 
 
 -----------------------------------------------------
 
 ## <img width="172" height="169" alt="image" src="https://github.com/user-attachments/assets/830c4115-6316-43f6-852c-d901334d843d" />
- Pull Shark — Done ✅
+ # Pull Shark 
 
-### 📌 Meaning
+###  Meaning
 You earn this badge when **two or more** of your Pull Requests are successfully merged.
 
 ---
@@ -52,14 +52,14 @@ You earn this badge when **two or more** of your Pull Requests are successfully 
 ```
 ---
 
-### 💡 Tip
+###  Tip
 - Pull Requests in your **own repositories** also count.
 - Simple fixes like README updates, typo corrections, and documentation improvements work well.
 
 ---
 
-### 🎉 Status
-✅ You have already achieved this badge.
+###  Status
+ You have already achieved this badge.
 
 ------------------------------------------
 ## <img width="219" height="183" alt="image" src="https://github.com/user-attachments/assets/5c48a45a-3a67-438a-aaa0-9d931b1cea36" />
