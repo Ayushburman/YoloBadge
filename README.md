@@ -31,7 +31,6 @@ You earn this badge when you close an Issue or Pull Request within **5 minutes**
 ###  Tip
 This badge is easiest to earn on your **own repository**, where you have full permissions.
 
-
 -----------------------------------------------------
 
 ## <img width="172" height="169" alt="image" src="https://github.com/user-attachments/assets/830c4115-6316-43f6-852c-d901334d843d" />
