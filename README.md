@@ -95,7 +95,7 @@ In the commit message, add:
 ## <img width="155" height="127" alt="image" src="https://github.com/user-attachments/assets/5fb2d278-e713-4e07-ae52-f4bdac2dc1c5" />
 # Galaxy Brain
 
-### 📌 Meaning
+###  Meaning
 You earn this badge when your answers in **GitHub Discussions** are marked as **Accepted** by the discussion author.
 
 ---
@@ -120,13 +120,13 @@ Or participate in large, active repositories.
 
 ```
 
-### 💡 Tip
+###  Tip
 Answer beginner-level questions whenever possible — they are easier to solve and more likely to be accepted.
 ---------------------------------------------------
 ## <img width="172" height="180" alt="image" src="https://github.com/user-attachments/assets/e0af878f-a457-43d5-b568-d8f10bd080f3" />
- — Pending ⏳
+ — Pending 
 
-### 📌 Meaning
+###  Meaning
 You earn this badge when your repository receives **stars ⭐ from other users**.  
 Self-starring your own repository does **not** count ❌.
 
@@ -158,14 +158,15 @@ Add a clear and informative **README.md** file.
 
 ---
 ```
-### 💡 Tip
+### Tip
+
 Usually, more than **one star** is needed. Focus on creating valuable content to attract organic stars.
 
 -----------------------------------------------
 ## <img width="192" height="180" alt="image" src="https://github.com/user-attachments/assets/c178c678-934c-4fdc-ba65-78c20323ae4c" />
- YOLO — Pending ⏳
+# YOLO 
 
-### 📌 Meaning
+### Meaning
 You earn this badge when your Pull Request is **merged without any review**.
 
 This means:
