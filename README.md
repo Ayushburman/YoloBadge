@@ -13,8 +13,8 @@
 ----------------------------------------------------
 
 ### <img width="264" height="257" alt="image" src="https://github.com/user-attachments/assets/0df7ca0e-4401-447d-8992-a27f38dbaf6f" />
-Quickdraw — Done ✅
 
+# Quickdraw
 ###  Meaning
 You earn this badge when you close an Issue or Pull Request within **5 minutes** of it being opened.
 
