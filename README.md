@@ -65,7 +65,7 @@ You earn this badge when **two or more** of your Pull Requests are successfully 
 ## <img width="219" height="183" alt="image" src="https://github.com/user-attachments/assets/5c48a45a-3a67-438a-aaa0-9d931b1cea36" />
  Pair Extraordinaire — Pending ⏳
 
-### 📌 Meaning
+###  Meaning
 You earn this badge by creating a Pull Request that is **co-authored with another contributor**.  
 In simple terms: **2 people collaborate on 1 PR**.
 
@@ -93,7 +93,7 @@ In the commit message, add:
 ```
 -------------------------------------------
 ## <img width="155" height="127" alt="image" src="https://github.com/user-attachments/assets/5fb2d278-e713-4e07-ae52-f4bdac2dc1c5" />
-Galaxy Brain — Pending ⏳
+# Galaxy Brain
 
 ### 📌 Meaning
 You earn this badge when your answers in **GitHub Discussions** are marked as **Accepted** by the discussion author.
