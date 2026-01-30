@@ -24,7 +24,7 @@ You earn this badge when you close an Issue or Pull Request within **5 minutes**
 > 1. Someone opens an Issue or Pull Request in your repository.
 > 2. Open it as soon as possible.
 > 3. Click **Close issue** or **Close pull request**.
-> 4. Complete the action within **5 minutes** ⏱️.
+> 4. Complete the action within **5 minutes** .
 ```
 ---
 
@@ -63,7 +63,7 @@ You earn this badge when **two or more** of your Pull Requests are successfully 
 
 ------------------------------------------
 ## <img width="219" height="183" alt="image" src="https://github.com/user-attachments/assets/5c48a45a-3a67-438a-aaa0-9d931b1cea36" />
- Pair Extraordinaire — Pending ⏳
+ Pair Extraordinaire — Pending 
 
 ###  Meaning
 You earn this badge by creating a Pull Request that is **co-authored with another contributor**.  
@@ -128,7 +128,7 @@ Answer beginner-level questions whenever possible — they are easier to solve a
 
 ###  Meaning
 You earn this badge when your repository receives **stars ⭐ from other users**.  
-Self-starring your own repository does **not** count ❌.
+Self-starring your own repository does **not** count .
 
 ---
 ```
@@ -202,22 +202,22 @@ This means:
   - Requested changes
   - Comments
 
-⚠️ Do NOT request a review.
+ Do NOT request a review.
 
 ---
 ```
 
-### 🧨 Result
+###  Result
 If your Pull Request is merged directly without review, the YOLO b
 
 ------------------------------------
 
 ### ![Uploading image.png…]()
- — Pending ⏳
+ — Pending 
 
-### 📌 Meaning
+###  Meaning
 You earn this badge by financially supporting a developer through GitHub Sponsors.  
-This is a **paid badge 💰**.
+This is a **paid badge **.
 
 ---
 
@@ -229,7 +229,7 @@ This is a **paid badge 💰**.
 ---
 
 #### Step 2: Open Sponsorship Page
-- Click the **Sponsor ❤️** button on their profile.
+- Click the **Sponsor ** button on their profile.
 
 ---
 
